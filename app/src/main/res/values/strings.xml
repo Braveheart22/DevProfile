@@ -10,4 +10,5 @@
     <string name="image">image</string>
     <string name="video">video</string>
     <string name="code">code</string>
+    <string name="customize_dashboard">Customize Dashboard</string>
 </resources>
