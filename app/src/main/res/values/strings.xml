@@ -3,4 +3,7 @@
     <string name="devslopes">Devslopes</string>
     <string name="banner">banner</string>
     <string name="logo">logo</string>
+    <string name="camera">camera</string>
+    <string name="favorite">favorite</string>
+    <string name="inbox">inbox</string>
 </resources>
