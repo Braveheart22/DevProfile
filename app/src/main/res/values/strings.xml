@@ -6,4 +6,8 @@
     <string name="camera">camera</string>
     <string name="favorite">favorite</string>
     <string name="inbox">inbox</string>
+    <string name="data">data</string>
+    <string name="image">image</string>
+    <string name="video">video</string>
+    <string name="code">code</string>
 </resources>
